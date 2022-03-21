@@ -30,7 +30,7 @@ In this final project I studied the covid impact in CitiBike, a bicycle sharing 
 ## Tools and methods
 
 ### Trello - using agile method (Kanban)
-Trello is a visual work management tool. I used trello to organize and manage the activities, I divided the activities into four main groups: goal, to do, doing, done. Check my [trello](https://trello.com/b/eMcFFJ4D/final-project-ironhack)
+Trello is a visual work management tool. I used trello to organize and manage the activities, I divided the activities into four main groups: goal, to do, doing, done.
 
 ### Github
 Github is a code hosting platform for version control and collaboration. I used it to share the files and keep a backlock of the updates. Check my [repository](https://github.com/cosfer2804/ironhack_final_project)
