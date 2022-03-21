@@ -66,11 +66,11 @@ PS: The colors of the users type is going to be the same in the next plots.
 #### Station Growth
 In the gif below we see the growth in the number of bicycle stations over the years.
 
-![Alt Text](https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/gif%20station%20growth.gif)
+![Alt Text](https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/gif%20station%20growth.gif)
 
 #### Average Trip Duration
 
-<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/average_trip.png">
+<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/average_trip.png">
 
 In the plot above I saw that the average trip duration in by day in 2020 increased comparing to 2019. That means that before covid people used to rent the bicycle to go to work. The average trip was around 10 to 17 minutes. And during the weekends that time increase a little bit. Also, in 2021 the average trip drops, still a little bit higher than 2019, but it seems to be returning to the level before the pandemic.
 
@@ -78,7 +78,7 @@ In the plot above I saw that the average trip duration in by day in 2020 increas
 
 The last step of these project was to analyzed the top stations in March, April and May in 2019, 2020 and 2021 and see if they changed during the pandemic.
 
-<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/TOP10%20stations.png">
+<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/TOP10%20stations.png">
 
 As we can see above, the most popular stations in 2019 were nearby other public transportation stations. For example, Pershing Square North is nearby NYC Central Station.
 
