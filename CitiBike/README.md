@@ -32,9 +32,6 @@ In this final project I studied the covid impact in CitiBike, a bicycle sharing 
 ### Trello - using agile method (Kanban)
 Trello is a visual work management tool. I used trello to organize and manage the activities, I divided the activities into four main groups: goal, to do, doing, done.
 
-### Github
-Github is a code hosting platform for version control and collaboration. I used it to share the files and keep a backlock of the updates. Check my [repository](https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike)
-
 ### Tableau
 Tableau is a visual analytics engine that makes it easier to create interactive visual analytics in the form of dashboards. The main use of tableau was to visualize and deep dive in the data to find customer behaviour patterns. The data that I used in this study had more than the limit provided by tableau public, so if you want to see the dashboards you need to download it. Check my [dashboards](https://github.com/cosfer2804/ironhack_final_project/tree/main/Tableau).
 
