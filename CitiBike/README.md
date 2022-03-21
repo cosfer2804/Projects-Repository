@@ -2,8 +2,7 @@
 
 # FINAL PROJECT - EDA CITIBIKE BICYCLE SHARING
 
-By: <br/>
-[Thiago Costa](https://www.linkedin.com/in/cosfer-thiago/)<br/>
+By: [Thiago Costa](https://www.linkedin.com/in/cosfer-thiago/)<br/>
 
 ## Table of Contents
 - [Scenario](#scenario)
