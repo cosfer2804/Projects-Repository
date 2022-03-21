@@ -37,21 +37,21 @@ Tableau is a visual analytics engine that makes it easier to create interactive 
 
 ### Python
 I divided the work done in python into four notebooks.
-In the [concat - newformat](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/concat%20-%20newformat.ipynb) I merged the months that had the new format in one excel file, It was from January of 2021 until February of 2022.
+In the [concat - newformat](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/concat%20-%20newformat.ipynb) I merged the months that had the new format in one csv excel file, from January 2021 until February 2022. I decided not to use 2022 in my EDA because I had only two months to work with.
 
-In the [concat - newformat](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/concat%20-%20newformat.ipynb) I merged the months that had the old format in one excel file per year, from June 2013 until December 2020 - input 91 excel files, output 8 files.
+In the [concat - newformat](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/concat%20-%20newformat.ipynb) I merged the months that had the old format in one csv excel file per year, from June 2013 until December 2020 - input 91 excel files, output 9 files.
 
 In the [eda - new format](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/eda%20-%20new%20format.ipynb) and [eda - old format](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/eda%20-%20old%20format.ipynb) I standardized both formats in one to work with them together on Tableau.
 
 ### Analysis
 #### Overall
-First it was necessary to understand the overall. In the plot below we can see how the trips worked over the years.
+First it was necessary to understand the overall. In the plot below we can see how the amount of trips worked over the years.
 
-<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/overall.png">
+<img width="1000" alt="Overall" src="https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/overall.png">
 
-In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Further the trips start rising again but in 2020 the amount of trips dropped around 5% comparing to 2019.
+In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Soon after, trips begin to increase again, but in 2020 the amount of trips decreased nearly 5% in comparison to 2019.
 
-Looking at the chart 'Trips by Day' we see that after covid, for the first time the trips on Sunday and Saturday were more popular than trips on weekdays. 
+As we look at the "Trips by Day" chart, we see that in 2020 (during covid), for the first time trips on Sunday and Saturday were more popular than weekday trips. 
 
 If we look at the users type the number of trips for casual users increased in 2020 and 2021.
 
