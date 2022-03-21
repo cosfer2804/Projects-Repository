@@ -51,13 +51,13 @@ First it was necessary to understand the overall. In the plot below we can see h
 
 In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Soon after, trips begin to increase again, but in 2020 the amount of trips decreased nearly 5% in comparison to 2019.
 
-As we look at the "Trips by Day" chart, we see that in 2020 (during covid), for the first time trips on Sunday and Saturday were more popular than weekday trips. 
+As we look at the "Trips by Day" chart, we see that in 2020 (with more strict restrictions for covid), for the first time trips on Sunday and Saturday were more popular than weekday trips.
 
 If we look at the users type the number of trips for casual users increased in 2020 and 2021.
 
 After these analyses, I decided to dig deep and try to understand the impacts of covid on the bike rental system. To do this, I analyzed the months of March, April and May 2019, 2020 and 2021. All the next installments are filtered with this time frame.
 
-PS: The colors of the users type is going to be the same in the next plots.
+PS: The colors of the users type is going to be the same in 'the Average Trips Duration'. Dark blue for casual users and light blue for member users (those who annually pay for a membership)
 
 
 #### Station Growth
@@ -69,23 +69,23 @@ In the gif below we see the growth in the number of bicycle stations over the ye
 
 <img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/average_trip.png">
 
-In the plot above I saw that the average trip duration in by day in 2020 increased comparing to 2019. That means that before covid people used to rent the bicycle to go to work. The average trip was around 10 to 17 minutes. And during the weekends that time increase a little bit. Also, in 2021 the average trip drops, still a little bit higher than 2019, but it seems to be returning to the level before the pandemic.
+We can see from the graph above that the average trip duration per day in 2020 has increased compared to 2019. Also, in 2021 the average trip duration fell compared to 2020, still slightly higher than 2019, but seems to be returning to the pre-pandemic level.
 
 #### TOP 10 Stations 
 
-The last step of these project was to analyzed the top stations in March, April and May in 2019, 2020 and 2021 and see if they changed during the pandemic.
+The last step of this project was to analyze the top 10 stations in March, April and May 2019, 2020 and 2021 and see if they changed during the pandemic. The intensity of the colors is based on the amount of trips at these stations during this period.
 
 <img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/TOP10%20stations.png">
 
 As we can see above, the most popular stations in 2019 were nearby other public transportation stations. For example, Pershing Square North is nearby NYC Central Station.
 
-In 2020, the most popular stations were close to tourist sites or recreational areas as Central Park and 12th Ave & W 40th St (nearby Hudson River Park).
+When analyzing the most popular stations during weekdays, we can see that stations closer to tourist areas and recreational areas were the most popular in 2020. It's worth noting that they are similar to the popular stations in 2019 during weekends.
 
-Also if we look in 2019 during the weekends, it's possible to see that the popular stations seems to be similar as during the week in 2020. People were riding bicycle as leisure during the beginning of the pandemic. It's important to see that the stations nearby Broadway during the weekend in 2020 weren't that popular, because most of the time Broadway plays were closed.
-
-In 2021, we see that some stations are getting popular again, for now it's kind of a mix with 2019 and 2020.
+In 2021, stations that were popular in 2019 and stopped being in 2020 reappear. But in general, the most popular stations continue to be close to leisure and tourist areas.
 
 ### Insights
+FALTA ATUALIZAR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* When we combine the insights from all the plots it's possible to see that
 * People in 2020 were using CitiBike as leisure, instead of going to work. At the same time, we see that casual trips increased, maybe because people thought that wasn't worth to buy the subscription for all the year without knowing what was going to happen with covid.
 * 2021 seems to start going back to normality, but still far from it.
 * In 2020, even with the pandemic, the amount of trips dropped only 5%, but in 2021 increased 41%. 
