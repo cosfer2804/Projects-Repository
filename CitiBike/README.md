@@ -47,7 +47,7 @@ In the [eda - new format](https://github.com/cosfer2804/ironhack_final_project/b
 #### Overall
 First it was necessary to understand the overall. In the plot below we can see how the amount of trips worked over the years.
 
-<img width="1000" alt="Overall" src="https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/overall.png">
+<img width="1000" alt="Overall" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/overall.png">
 
 In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Soon after, trips begin to increase again, but in 2020 the amount of trips decreased nearly 5% in comparison to 2019.
 
