@@ -13,4 +13,4 @@ It is worth mentioning that each project has a unique objective and different te
  - Used python to clean and standardize 104 excel files;
  - Used tableau for the visualization e apresentação dos dados;
 
-Check the [repository](https://github.com/cosfer2804/Projects-Repository/tree/main/CitiBike) for further details.
+ Check the [repository](https://github.com/cosfer2804/Projects-Repository/tree/main/CitiBike) for further details.
