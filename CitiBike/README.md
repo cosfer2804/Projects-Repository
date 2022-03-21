@@ -1,4 +1,4 @@
-![alt text](https://github.com/cosfer2804/ironhack_final_project/blob/main/SS/Citi_Bike_logo.jpg) 
+![alt text](https://github.com/cosfer2804/Projects-Repository/tree/main/CitiBike/SS/Citi_Bike_logo.jpg) 
 
 # FINAL PROJECT - EDA CITIBIKE BICYCLE SHARING
 
