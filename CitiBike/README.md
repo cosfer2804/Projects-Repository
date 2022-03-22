@@ -70,6 +70,8 @@ In the gif below we see the growth in the number of bicycle stations over the ye
 
 We can see from the graph above that the average trip duration per day in 2020 has increased compared to 2019. Also, in 2021 the average trip duration fell compared to 2020, still slightly higher than 2019, but seems to be returning to the pre-pandemic level.
 
+Also 
+
 #### TOP 10 Stations 
 
 The last step of this project was to analyze the top 10 stations in March, April and May 2019, 2020 and 2021 and see if they changed during the pandemic. The intensity of the colors is based on the amount of trips at these stations during this period.
