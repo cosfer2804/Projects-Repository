@@ -29,12 +29,15 @@ In this final project I studied the covid impact in CitiBike, a bicycle sharing 
 ## Tools and methods
 
 ### Trello - using agile method (Kanban)
-Trello is a visual work management tool. I used trello to organize and manage the activities, I divided the activities into four main groups: goal, to do, doing, done.
+
+Trello is a visual work management tool. I used trello to organize and manage the activities. The activities were divided into four main groups: goal, to do, doing, and done.
 
 ### Tableau
-Tableau is a visual analytics engine that makes it easier to create interactive visual analytics in the form of dashboards. The main use of tableau was to visualize and deep dive in the data to find customer behaviour patterns. The data that I used in this study had more than the limit provided by tableau public, so if you want to see the dashboards you need to download it. Check my [dashboards](https://github.com/cosfer2804/ironhack_final_project/tree/main/Tableau).
+
+Tableau is a visual analytics engine that makes it easier to create interactive visual analytics in the form of dashboards. The main use of tableau was to visualize and deep dive in the data to find customer behaviour patterns. The data that I used in this study had more than the limit provided by tableau public, so in order to see the dashboards the download is needed. Check my [dashboards](https://github.com/cosfer2804/ironhack_final_project/tree/main/Tableau).
 
 ### Python
+
 I divided the work done in python into four notebooks.
 In the [concat - newformat](https://github.com/cosfer2804/ironhack_final_project/blob/main/Python/concat%20-%20newformat.ipynb) I merged the months that had the new format in one csv excel file, from January 2021 until February 2022. I decided not to use 2022 in my EDA because I had only two months to work with.
 
@@ -44,20 +47,20 @@ In the [eda - new format](https://github.com/cosfer2804/ironhack_final_project/b
 
 ### Analysis
 #### Overall
-First it was necessary to understand the overall. In the plot below we can see how the amount of trips worked over the years.
+
+First it was necessary to understand the overall scenario. In the plot below we can see how the amount of trips worked over the years.
 
 <img width="1000" alt="Overall" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/overall.png">
 
-In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Soon after, trips began to grow again, but in 2020 the amount of trips decreased by almost 5% compared to 2019.
+Also in this plot we can see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Added to that it is possible to see that covid dropped the amount of trips, specially in the first restrictions. Soon after, trips begin to increase again, but in 2020 the amount of trips decreased nearly 5% in comparison to 2019.
 
 As we look at the "Trips by Day" chart, we see that in 2020 (with more strict restrictions for covid), for the first time trips on Sunday and Saturday were more popular than weekday trips.
 
 If we look at the users type the number of trips for casual users increased in 2020 and 2021.
 
-After these analyses, I decided to dig deep and try to understand the impacts of covid on the bike rental system. To do this, I analyzed the months of March, April and May 2019, 2020 and 2021. All the next installments are filtered with this time frame.
+Seeing these analyses results made me decided to dig deep and try to understand the impacts of covid on the bike rental system. To do this, I did an analysis of the months of March, April and May in 2019, 2020, and 2021. All the next installments are filtered with this time frame
 
 PS: The colors of the users type is going to be the same in 'the Average Trips Duration'. Dark blue for casual users and light blue for member users (those who annually pay for a membership)
-
 
 #### Station Growth
 In the gif below we see the growth in the number of bicycle stations over the years.
