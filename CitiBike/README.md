@@ -70,7 +70,7 @@ In the gif below we see the growth in the number of bicycle stations over the ye
 
 We can see from the graph above that the average trip duration per day in 2020 has increased compared to 2019. Also, in 2021 the average trip duration fell compared to 2020, still slightly higher than 2019, but seems to be returning to the pre-pandemic level.
 
-Also 
+Also it's possible to see in 
 
 #### TOP 10 Stations 
 
@@ -82,14 +82,13 @@ As we can see above, the most popular station in 2019 was Pershing Square North,
 
 When analyzing the most popular stations during weekdays, we can see that stations closer to tourist areas and recreational areas were the most popular in 2020. It's worth noting that they are similar to the popular stations in 2019 during weekends.
 
-In 2021, stations that were popular in 2019 and stopped being in 2020 reappear. But in general, the most popular stations continue to be close to leisure and tourist areas.
+In 2021, stations that were popular in 2019 and ceased to be popular in 2020 reappear. Especially the stations near Union Square and Madison Square Park.
 
 ### Insights
-FALTA ATUALIZAR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-* When we combine the insights from all the plots it's possible to see that
-* People in 2020 were using CitiBike as leisure, instead of going to work. At the same time, we see that casual trips increased, maybe because people thought that wasn't worth to buy the subscription for all the year without knowing what was going to happen with covid.
-* 2021 seems to start going back to normality, but still far from it.
-* In 2020, even with the pandemic, the amount of trips dropped only 5%, but in 2021 increased 41%. 
+
+* In 2020, even with the pandemic, the amount of trips dropped only 5%, but in 2021 increased 41%.
+* In 2020 and 2021, the amount of trips from casual users increased. There is a possibility that members stopped subscribing to save money and started using occasionally as casual members, but we need more data to support this.
+* Combining the insights that we had in different plots we can confirm that most of the people in 2020 were using CitiBike as leisure, instead of going to work. 
 
 ### Next Steps
 Check if in the future the customer behavior changed only during the pandemic or if covid created new pattern over the next years.
