@@ -76,7 +76,7 @@ The last step of this project was to analyze the top 10 stations in March, April
 
 <img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/TOP10%20stations.png">
 
-As we can see above, the most popular stations in 2019 were nearby other public transportation stations. For example, Pershing Square North is nearby NYC Central Station.
+As we can see above, the most popular station in 2019 was Pershing Square North, nearby NYC Central Station. The others 
 
 When analyzing the most popular stations during weekdays, we can see that stations closer to tourist areas and recreational areas were the most popular in 2020. It's worth noting that they are similar to the popular stations in 2019 during weekends.
 
