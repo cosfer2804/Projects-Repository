@@ -74,7 +74,7 @@ We can see from the graph above that the average trip duration per day in 2020 h
 
 The last step of this project was to analyze the top 10 stations in March, April and May 2019, 2020 and 2021 and see if they changed during the pandemic. The intensity of the colors is based on the amount of trips at these stations during this period.
 
-<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/TOP10%20stations.png">
+<img width="1000" alt="KNeighbors" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/TOP%2010%20stations.png">
 
 As we can see above, the most popular station in 2019 was Pershing Square North, nearby NYC Central Station. The others 
 
