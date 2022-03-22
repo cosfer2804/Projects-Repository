@@ -48,7 +48,7 @@ First it was necessary to understand the overall. In the plot below we can see h
 
 <img width="1000" alt="Overall" src="https://github.com/cosfer2804/Projects-Repository/blob/main/CitiBike/SS/overall.png">
 
-In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Soon after, trips begin to increase again, but in 2020 the amount of trips decreased nearly 5% in comparison to 2019.
+In this plot we see that normally the renting drops during the winter (or cold weeks) and increase in summer or good weather days. Also, it’s possible to see that covid dropped the amount of the trips, specially in the first restrictions. Soon after, trips began to grow again, but in 2020 the amount of trips decreased by almost 5% compared to 2019.
 
 As we look at the "Trips by Day" chart, we see that in 2020 (with more strict restrictions for covid), for the first time trips on Sunday and Saturday were more popular than weekday trips.
 
