@@ -14,10 +14,10 @@ By: [Thiago Costa](https://www.linkedin.com/in/cosfer-thiago/)<br/>
 - [Next Steps](#next-steps)
 
 ## Scenario
-In this final project I studied the covid impact in CitiBike, a bicycle sharing in New York City. For these I did an exploratory analysis since the start of the operations (June 2013) until February 2022. Then I decided to compare March, April and May in 2019, 2020 and 2021 to see if had any changed in the customer behavior.
+In this final project I studied the covid impact in CitiBike, a bicycle sharing in New York City. For these I did an exploratory analysis since the start of the operations (June 2013) until February 2022. Then I decided to compare March, April and May in 2019, 2020 and 2021 to see if had any changed in the customers behavior.
 
 ## Objective
-* Check if covid had an impact in the customer behaviors while renting bicycles in New York City.
+* Check if covid had an impact in the customers behaviors while renting bicycles in New York City.
 
 ## Data Set
 - Provided by CitiBike, see the info of the dataset [here](https://ride.citibikenyc.com/system-data);
